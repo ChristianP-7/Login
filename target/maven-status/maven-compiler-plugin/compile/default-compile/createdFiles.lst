@@ -1,0 +1,12 @@
+com\mycompany\login\gui\Principal.class
+com\mycompany\login\gui\Principal$2.class
+com\mycompany\login\persistence\exceptions\NonexistentEntityException.class
+com\mycompany\login\Login.class
+com\mycompany\login\gui\Principal$1.class
+com\mycompany\login\logic\LogicController.class
+com\mycompany\login\logic\User.class
+com\mycompany\login\persistence\UserJpaController.class
+com\mycompany\login\logic\User_.class
+com\mycompany\login\persistence\exceptions\PreexistingEntityException.class
+com\mycompany\login\persistence\PersistenceController.class
+com\mycompany\login\persistence\exceptions\IllegalOrphanException.class

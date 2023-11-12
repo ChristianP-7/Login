@@ -1,0 +1,9 @@
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\persistence\PersistenceController.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\persistence\exceptions\IllegalOrphanException.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\persistence\UserJpaController.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\persistence\exceptions\PreexistingEntityException.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\logic\User.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\logic\LogicController.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\persistence\exceptions\NonexistentEntityException.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\gui\Principal.java
+C:\Users\chris\Documentos\NetBeansProjects\Login\src\main\java\com\mycompany\login\Login.java
